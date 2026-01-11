@@ -42,7 +42,11 @@ Analysis
 The random forest method was successful in helping me with feature selection.
 The bagged SVM model gives me an accuracy of 96%. This accuracy can be further enhanced by fixing known errors on the test data.
 
+Safety Implications
+My work with Human Activity Recognition involved training models to recognize complex human behaviors from raw sensor/video data. This experience is transferable to AI Welfare and Human-AI Interaction, where we need models to accurately 'read' and respect human physical and psychological states during oversight.
+
 Appendices 
 
 Please attach complete source code, with proper commenting and indenting.
 The source code and primary_set texts and secondary_set texts are attached to the e-mail.
+
