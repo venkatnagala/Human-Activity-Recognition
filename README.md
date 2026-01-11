@@ -39,6 +39,28 @@ AI Control: Robust activity recognition is the first step in "trip-wire" systems
 
 Model Organisms: The techniques used here can be applied to study "deceptive" behaviors in simpler models, where an agent might attempt to mask its true activity to bypass a monitor.
 
+🐍 Python Implementation & Portability
+While the core statistical research was conducted in R for its specialized time-series libraries, I have provided a Python/NumPy implementation (signal_processing.py) to demonstrate the pipeline's portability into modern ML ecosystems (e.g., PyTorch/JAX).
+
+Technical Focus: Behavioral Signal Processing
+The Python module focuses on converting raw, high-frequency sensor data into behavioral feature vectors.
+
+Time-Domain Extraction: Computes Mean, Standard Deviation, and Signal Magnitude Area (SMA) to capture the intensity and orientation of movements.
+
+Frequency-Domain Analysis: Implements Fast Fourier Transform (FFT) to extract spectral energy and entropy, essential for distinguishing between rhythmic activities (Walking/Running) and static states (Sitting/Standing).
+
+Scalable Oversight Framework: This logic serves as a "behavioral monitor" that can be integrated into real-time safety observers to flag anomalous agent trajectories.
+
+from signal_processing import extract_behavioral_features
+import numpy as np
+
+# Sample: 128-sample window of tri-axial accelerometer data
+raw_data = np.random.normal(0, 1, (128, 3)) 
+features = extract_behavioral_features(raw_data)
+
+print(f"Feature Vector Shape: {features.shape}")
+
+
 💻 Installation & Usage
 Bash
 
