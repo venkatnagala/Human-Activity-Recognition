@@ -1,6 +1,31 @@
 Human Activity Recognition (HAR): Temporal Modeling & Behavioral Monitoring
 This project implements a deep learning pipeline to classify human actions from sequential sensor/video data. By extracting patterns from time-series inputs, the model learns to identify complex behaviors—a technical precursor to developing automated monitors for autonomous AI agents.
 
+This repository contains a high-performance framework for **Human Activity Recognition (HAR)**. By leveraging sensor-based data and advanced analytics, this project models health-related behaviors and activity patterns. 
+
+In the context of **Biopharmaceutical Innovation**, this work directly addresses the need for **Digital Biomarkers** and continuous patient monitoring in clinical trials.
+
+
+
+## 🎯 Clinical Application: Digital Biomarkers
+Modern clinical trials are shifting toward decentralization. This project demonstrates how engineering can bridge the gap between raw sensor data and clinical insights:
+* **Digital Biomarkers:** Tracking patient mobility and activity as a proxy for therapeutic efficacy.
+* **Remote Monitoring:** Real-time analysis of "hidden machinery" in human movement patterns.
+* **Data Integrity:** Scalable pipelines designed for regulated environments where precision is paramount.
+
+## 🛠 Tech Stack
+* **Language:** Python / R
+* **Core Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
+* **Data Focus:** Time-series analysis, Feature extraction from Accelerometers/Gyroscopes
+
+## 🚀 Strategic Alignment
+As a Solution Architect with a focus on **AI Safety** and **Cloud Modernization**, I view HAR as the ultimate integration of high-performance software and human biology. This project serves as a technical proof-of-concept for architecting systems that handle complex, human-centric data landscapes.
+
+## 📬 Contact
+**Venkateshwar Rao N**
+*Founder, For the Cloud By the Cloud*
+[LinkedIn](https://www.linkedin.com/in/tenalirama) | [Email](mailto:tenalirama2026@gmail.com)
+
 🚀 Research Motivation
 As AI agents begin to operate in physical and digital environments, we need robust systems to interpret their "trajectories." This project explores:
 
