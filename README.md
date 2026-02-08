@@ -3,28 +3,30 @@ This project implements a deep learning pipeline to classify human actions from 
 
 This repository contains a high-performance framework for **Human Activity Recognition (HAR)**. By leveraging sensor-based data and advanced analytics, this project models health-related behaviors and activity patterns. 
 
-In the context of **Biopharmaceutical Innovation**, this work directly addresses the need for **Digital Biomarkers** and continuous patient monitoring in clinical trials.
+Behavioral Biometrics & Pattern-Based Authentication
 
+🎯 Strategic Focus: Behavioral Biometrics
 
+In the evolution of mobile payments and 2FA, Behavioral Biometrics represents the next frontier of security. This project demonstrates how engineering can transform raw physical sensor data into a secure "digital signature":
 
-## 🎯 Clinical Application: Digital Biomarkers
-Modern clinical trials are shifting toward decentralization. This project demonstrates how engineering can bridge the gap between raw sensor data and clinical insights:
-* **Digital Biomarkers:** Tracking patient mobility and activity as a proxy for therapeutic efficacy.
-* **Remote Monitoring:** Real-time analysis of "hidden machinery" in human movement patterns.
-* **Data Integrity:** Scalable pipelines designed for regulated environments where precision is paramount.
+Continuous Authentication: Moving beyond static passwords to identify users based on unique movement patterns (gait, velocity, and gesture).
 
-## 🛠 Tech Stack
-* **Language:** Python / R
-* **Core Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
-* **Data Focus:** Time-series analysis, Feature extraction from Accelerometers/Gyroscopes
+Anomaly Detection: Real-time analysis of "hidden machinery" in movement to detect unauthorized device usage or bot-like behavior.
 
-## 🚀 Strategic Alignment
-As a Solution Architect with a focus on **AI Safety** and **Cloud Modernization**, I view HAR as the ultimate integration of high-performance software and human biology. This project serves as a technical proof-of-concept for architecting systems that handle complex, human-centric data landscapes.
+Secure Data Pipelines: Scalable, high-concurrency pipelines designed for regulated fintech environments where low latency and data integrity are paramount.
 
-## 📬 Contact
-**Venkateshwar Rao N**
-*Founder, For the Cloud By the Cloud*
-[LinkedIn](https://www.linkedin.com/in/tenalirama) | [Email](mailto:tenalirama2026@gmail.com)
+🛠 Tech Stack
+Languages: Python / R
+
+Core Frameworks: NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
+
+Signal Processing: Time-series analysis, Feature extraction from 3-axis Accelerometers and Gyroscopes
+
+🚀 Architectural Alignment
+As a Solution Architect and Engineering Leader, I view HAR as the ultimate integration of edge-to-cloud software and human-centric security. This project serves as a technical proof-of-concept for architecting systems that handle high-volume, unstructured sensor data—essential for scaling biometric solutions in the global payments landscape.
+
+📬 Contact
+Venkateshwar Rao N VP / Solution Architect | AI & Cloud Modernization LinkedIn | Email
 
 🚀 Research Motivation
 As AI agents begin to operate in physical and digital environments, we need robust systems to interpret their "trajectories." This project explores:
