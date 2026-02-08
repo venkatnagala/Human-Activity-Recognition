@@ -26,7 +26,7 @@ Signal Processing: Time-series analysis, Feature extraction from 3-axis Accelero
 As a Solution Architect and Engineering Leader, I view HAR as the ultimate integration of edge-to-cloud software and human-centric security. This project serves as a technical proof-of-concept for architecting systems that handle high-volume, unstructured sensor data—essential for scaling biometric solutions in the global payments landscape.
 
 📬 Contact
-Venkateshwar Rao N VP / Solution Architect | AI & Cloud Modernization LinkedIn | Email
+Venkateshwar Rao N VP / Solution Architect | AI & Cloud Modernization LinkedIn :- https://www.linkedin.com/in/tenalirama | Email :- tenalirama2026@gmail.com
 
 🚀 Research Motivation
 As AI agents begin to operate in physical and digital environments, we need robust systems to interpret their "trajectories." This project explores:
